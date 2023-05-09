@@ -77,6 +77,7 @@ Politics/考点12-意识——话语层次图.excalidraw.md#Text Elements
 Politics/考研优题库/导论.md
 Politics/考研优题库/第二章-唯物辩证法.md
 obsidian第三方插件合集&&使用方法.md
+test.md
 双百工程.md
 双百工程.md#双百工程建议
 双百工程.md#难点问题#1. 资金
