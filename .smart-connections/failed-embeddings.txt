@@ -71,6 +71,9 @@ Politics/核心考案/考点23-偶然和必然.md
 Politics/核心考案/考点24-可能和现实.md
 Politics/核心考案/考点26-客观辩证法与主观辩证法的统一.md
 Politics/核心考案/考点30-实践对认识的决定作用.md
+Politics/核心考案/考点31-认识的本质.md
+Politics/核心考案/考点31.md
+Politics/核心考案/考点32-认识的过程.md
 Politics/考点12-意识——话语层次图.excalidraw.md
 Politics/考点12-意识——话语层次图.excalidraw.md#Drawing
 Politics/考点12-意识——话语层次图.excalidraw.md#Text Elements
