@@ -6,3 +6,4 @@
 
 看别人的论文笔记这个：
 [语义分割网络U-Net详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/389949794)
+[U-Net 论文笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/37496466)
