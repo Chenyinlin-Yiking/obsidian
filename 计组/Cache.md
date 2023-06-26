@@ -130,14 +130,11 @@ D.25%
 
 ### 4．
 
-<div style="border: 2px solid #ADD8E6; border-width: 2px 0 2px 0; padding: 10px;">
-4. 容量为 64 块的 Cache 采用组相联映射方式，字块大小为 128 个字，每 4 块为一组。若主存 4096 块，且以字编址，那么主存地址和主存标记的位数分别为。<br> 
+<div style="border: 2px solid #ADD8E6; border-width: 2px 0 2px 0; padding: 10px; word-wrap: break-word; white-space: pre-wrap;">4. 容量为 64 块的 Cache 采用组相联映射方式，字块大小为 128 个字，每 4 块为一组。若主存 4096 块，且以字编址，那么主存地址和主存标记的位数分别为。
 A.16,6  
 B.17,6 
 C.18,8 
-D.19,8<br>
+D.19,8
 【解答】
 因为主存容量 4 Kx 128＝512 K 字，故主存地址 19 位。又因为字块大小为 128 个字，故块内地址 7 位，Cache 被分成 64÷4＝16 组，故组号 4 位，主存标记 19—4—7＝8 位。
-
-
 </div>
