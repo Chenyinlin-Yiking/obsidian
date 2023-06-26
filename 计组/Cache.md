@@ -133,3 +133,6 @@ D.25%
 。 A.16,6
 B.17,6 C.18,8 D.19,8 
 
+<div style="border: 1px solid black; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+这是一个放在框里的文本内容。
+</div>
